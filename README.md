@@ -10,4 +10,4 @@ Tiny Twitter system with the following feature
 - php artisan migrate OR **For Dummy Data** php artisan migrate:fresh --seed
 - php artisan passport:install
 
-# TinyTwitterSystem
+
